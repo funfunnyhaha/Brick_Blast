@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Brick",
+  "name": "Obj_Bat",
   "spriteId": {
-    "name": "Spr_Brick",
-    "path": "sprites/Spr_Brick/Spr_Brick.yy",
+    "name": "Spr_Bat",
+    "path": "sprites/Spr_Bat/Spr_Bat.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,9 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

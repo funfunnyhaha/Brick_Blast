@@ -4,7 +4,11 @@
   "name": "Brick_Blast",
   "resources": [
     {"id":{"name":"Spr_Brick","path":"sprites/Spr_Brick/Spr_Brick.yy",},"order":0,},
+    {"id":{"name":"Spr_Ball","path":"sprites/Spr_Ball/Spr_Ball.yy",},"order":1,},
     {"id":{"name":"Obj_Brick","path":"objects/Obj_Brick/Obj_Brick.yy",},"order":0,},
+    {"id":{"name":"Spr_Bat","path":"sprites/Spr_Bat/Spr_Bat.yy",},"order":2,},
+    {"id":{"name":"Obj_Bat","path":"objects/Obj_Bat/Obj_Bat.yy",},"order":2,},
+    {"id":{"name":"Obj_Ball","path":"objects/Obj_Ball/Obj_Ball.yy",},"order":1,},
     {"id":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},"order":0,},
   ],
   "Options": [
