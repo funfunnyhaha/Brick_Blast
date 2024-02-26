@@ -9,5 +9,6 @@ image_blend = choose (
 	c_fuchsia, 
 	c_orange, 
 	c_purple
-)
+);
+
 
