@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Bat",
+  "name": "obj_Bat",
   "spriteId": {
-    "name": "Spr_Bat",
-    "path": "sprites/Spr_Bat/Spr_Bat.yy",
+    "name": "spr_Bat",
+    "path": "sprites/spr_Bat/spr_Bat.yy",
   },
   "solid": false,
   "visible": true,
