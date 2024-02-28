@@ -3,8 +3,10 @@
   "resourceVersion": "1.6",
   "name": "Brick_Blast",
   "resources": [
+    {"id":{"name":"obj_Control","path":"objects/obj_Control/obj_Control.yy",},"order":3,},
     {"id":{"name":"spr_Brick","path":"sprites/spr_Brick/spr_Brick.yy",},"order":0,},
     {"id":{"name":"spr_Ball","path":"sprites/spr_Ball/spr_Ball.yy",},"order":1,},
+    {"id":{"name":"fnt_Game","path":"fonts/fnt_Game/fnt_Game.yy",},"order":0,},
     {"id":{"name":"obj_Brick","path":"objects/obj_Brick/obj_Brick.yy",},"order":0,},
     {"id":{"name":"spr_Bat","path":"sprites/spr_Bat/spr_Bat.yy",},"order":2,},
     {"id":{"name":"obj_Bat","path":"objects/obj_Bat/obj_Bat.yy",},"order":2,},
