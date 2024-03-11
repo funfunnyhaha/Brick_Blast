@@ -1,6 +1,6 @@
 /// creates a gameover state
 
-if(instance_number(obj_Brick <= 0)){
+if(instance_number(obj_Brick) <= 0){
 	room_restart();
 }
 if(gameover){
